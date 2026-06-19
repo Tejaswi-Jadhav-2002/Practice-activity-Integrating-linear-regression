@@ -1,5 +1,3 @@
-# Practice-activity-Integrating-linear-regression
-This is the practice activity performed under the coursera AI and Machine Learning Algorithms and Techniques course.
 # House Price Prediction using Linear Regression
 
 ## Overview
